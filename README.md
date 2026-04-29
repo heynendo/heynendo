@@ -108,8 +108,6 @@ I'm a web developer based outside of Chicago with a passion for building things 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=heynendo&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" style="width:75%; min-width: 300px" />
-
 <img src="https://streak-stats.demolab.com?user=heynendo&theme=default&hide_border=true" style="width:75%; min-width: 300px" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heynendo&layout=compact&theme=default&hide_border=true" style="width:75%; min-width: 300px" />
