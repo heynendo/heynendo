@@ -113,16 +113,3 @@ I'm a web developer based outside of Chicago with a passion for building things 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heynendo&layout=compact&theme=default&hide_border=true" style="width:75%; min-width: 300px" />
 
 </div>
-
----
-<div align="center">
-
-## Let's Connect
-
-
-[![Portfolio](https://img.shields.io/badge/donovanheynen.com-black?style=flat-square&logo=homeadvisor&logoColor=white)](https://donovanheynen.com)
-
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=flat-square)](https://linkedin.com/in/donovanheynen/)
-[![Email](https://img.shields.io/badge/Email-black?style=flat-square&logo=gmail)](mailto:heynen.donovan@gmail.com)
-
-</div>
