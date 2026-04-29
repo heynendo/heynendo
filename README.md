@@ -7,8 +7,8 @@
 [![Portfolio](https://img.shields.io/badge/donovanheynen.com-0A66C2?style=flat-square&logo=homeadvisor&logoColor=white)](https://donovanheynen.com)
 [![Email](https://img.shields.io/badge/heynen.donovan@gmail.com-black?style=flat-square&logo=gmail)](mailto:heynen.donovan@gmail.com)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=flat-square)](https://linkedin.com/in/donovanheynen/)
-[![Location](https://img.shields.io/badge/Frankfort%2C_IL-black?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Frankfort,IL)
 
+[![Location](https://img.shields.io/badge/Frankfort%2C_IL-black?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Frankfort,IL)
 ![Open to Work](https://img.shields.io/badge/Status-Open_to_Work-339933?style=flat-square)
 
 </div>
@@ -108,11 +108,11 @@ I'm a web developer based outside of Chicago with a passion for building things 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=heynendo&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" style="max-width:450px; width:100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=heynendo&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" style="max-width:325px; width:100%" />
 
-<img src="https://streak-stats.demolab.com?user=heynendo&theme=default&hide_border=true" style="max-width:450px; width:100%" />
+<img src="https://streak-stats.demolab.com?user=heynendo&theme=default&hide_border=true" style="max-width:325px; width:100%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heynendo&layout=compact&theme=default&hide_border=true" style="max-width:450px; width:100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heynendo&layout=compact&theme=default&hide_border=true" style="max-width:325px; width:100%" />
 
 </div>
 
@@ -123,6 +123,7 @@ I'm a web developer based outside of Chicago with a passion for building things 
 
 
 [![Portfolio](https://img.shields.io/badge/donovanheynen.com-black?style=flat-square&logo=homeadvisor&logoColor=white)](https://donovanheynen.com)
+
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=flat-square)](https://linkedin.com/in/donovanheynen/)
 [![Email](https://img.shields.io/badge/Email-black?style=flat-square&logo=gmail)](mailto:heynen.donovan@gmail.com)
 
