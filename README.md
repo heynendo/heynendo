@@ -100,16 +100,3 @@ I'm a web developer based outside of Chicago with a passion for building things 
 | 🍰 Rebie's Bakery | [rebies-bakery.com](https://www.rebies-bakery.com/) | 
 
 </div>
-
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=heynendo&theme=default&hide_border=true" style="width:75%; min-width: 300px" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heynendo&layout=compact&theme=default&hide_border=true" style="width:75%; min-width: 300px" />
-
-</div>
